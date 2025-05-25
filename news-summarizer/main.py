@@ -57,7 +57,6 @@ class NewsSummarizer:
         SOURCES:
         {context}
         it should be formatted like this:
-        heading: AI generated news summary
         sub heading: a comprehensive sentence that highlights in an enticing way what happened in all the news sources, should not be more than two lines
         news 1 - some title:
         The news summarized with important parts highlighted
